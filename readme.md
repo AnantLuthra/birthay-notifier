@@ -5,7 +5,10 @@
 ## Steps to use
 
 - Make a `log.txt`, `check.txt`, `values.txt`
-- Put yesterday's date in `check.txt` 
+- Put yesterday's date in `check.txt` in following way. ex- `30:1:True`
+```
+date:month:True
+```
 - Put following data in following order in `values.txt` file.
 
 ```
