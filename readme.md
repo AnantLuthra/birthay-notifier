@@ -18,3 +18,4 @@ mobile-number
 ```
 - mobile-number - is that number to which you'll send upcoming birthday's to.
 
+- Then run [`script.py`](./script.py) file and message will be sent to you..
