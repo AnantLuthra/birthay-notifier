@@ -1,6 +1,7 @@
-# Birthday notifier
+# Birthday Notifier
 
 - This is a birthday notifier tool, it fetches data from excel sheet and sends notification if their is a birthday or in 1 or 2 days on whatsapp to a specified phone number.
+- Want to know my process of making this tool? - checkout this thread on my twitter handle [🔗](https://twitter.com/anant_luthra_/status/1752366957943476382)
 
 ## Steps to use
 
